@@ -1,6 +1,6 @@
 /**
  * @file hello.c
- * @author your name (you@domain.com)
+ * @author S DANUSH VENKATESH (danushvenkat25@gmail.com)
  * @brief 
  * @version 0.1
  * @date 2021-06-26
