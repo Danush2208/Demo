@@ -11,5 +11,6 @@
 #include <stdio.h>
 int main(){
     printf("Hello");
+    printf("H");
     return 0;
 }
